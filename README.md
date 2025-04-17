@@ -1,4 +1,4 @@
-# Project Name
+## Subscription Behaviors
 This is the Understanding Subscription Behaviors project from Datacamp.
 
 The purpose of this project is to answer the following:
